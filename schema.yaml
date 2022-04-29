@@ -1,0 +1,19 @@
+title: "Manage policies and stack "
+description: "Create policies and dgs using resource manager stack"
+schemaVersion: 1.1.0
+version: "20220429"
+locale: "en"
+
+##################
+#Variable Groups
+##################
+
+variableGroups:
+- title: General Configuration
+  visible: false
+  variables:
+  - tenancy_ocid
+  - region
+  - user_ocid
+  - fingerprint
+  - private_key_path
