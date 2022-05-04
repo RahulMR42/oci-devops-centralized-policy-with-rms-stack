@@ -1,3 +1,3 @@
 ## Deploy Using Oracle Resource Manager
 
-To do....
+Click [![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?region=home&zipUrl=https://github.com/RahulMR42/oci-devops-centralized-policy-with-rms-stack/releases/latest/download/oci-devops-centralized-policy-with-rms-stack-latest.zip)
