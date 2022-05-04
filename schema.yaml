@@ -17,3 +17,9 @@ variableGroups:
   - user_ocid
   - fingerprint
   - private_key_path
+
+- title: Compartment Information
+  visible: true  
+  variables:
+    - compartment1_ocid
+    - compartment2_ocid

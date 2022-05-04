@@ -4,3 +4,5 @@
 variable "tenancy_ocid" {}
 variable "compartment_ocid" {}
 variable "region" {}
+variable "compartment1_ocid" {}
+variable "compartment2_ocid" {}
