@@ -1,4 +1,4 @@
-resource "oci_identity_dynamic_group" "devopsgroup1" {
+resource "oci_identity_dynamic_group" "devopsgroup2" {
   provider       = oci.home_region
   name           = "devops_dg_compart2"
   description    = "DevOps deploy pipeline dynamic group"
